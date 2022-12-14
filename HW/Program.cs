@@ -3,6 +3,7 @@
 
 namespace HW
 {
+    //Задание 3.4.3
     enum Semaphore
     {
         Red = 100, Yellow = 200, Green = 300
@@ -11,34 +12,34 @@ namespace HW
 
     internal class Program
     {
-        //Задание 3.4.3
+        
 
 
         static void Main(string[] args)
         {
 
-            //Задание 3.6.8
+            ///Задание 3.6.8
             double result = 10 % 3;
             Console.WriteLine(result);
 
-            //Задание 3.7.4
+            ///Задание 3.7.4
             Console.Write("Enter your name: ");
             string name = Console.ReadLine();
             
             Console.Write("Enter your age: ");
             byte age = checked((byte)int.Parse(Console.ReadLine()));
             
-            Console.WriteLine("Your name is {0} and age is {1} ", name, age);
+            Console.WriteLine($"Your name is {name} and age is {age} ");
 
             Console.Write("What is your favorite day of week?: ");
-
-            DayOfWeek d = DayOfWeek(1);
-            Console.WriteLine(d);
+            int day = checked (int.Parse(Console.ReadLine()));
+            DayOfWeek d = (DayOfWeek)day;
+            Console.WriteLine($"Your favorite day is {d}");
             Console.ReadKey();
 
 
 
-            // Задание с анкетой
+            /// Задание с анкетой
             Console.Write("Введите ваше имя: ");
             string name = Console.ReadLine();
             

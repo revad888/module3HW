@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\HW"
+    "\\HW",
+    "\\HW\\bin",
+    "\\HW\\bin\\Debug",
+    "\\HW\\bin\\Debug\\net6.0"
   ],
-  "SelectedNode": "\\HW\\Program.cs",
+  "SelectedNode": "\\HW\\bin\\Debug\\net6.0",
   "PreviewInSolutionExplorer": false
 }
