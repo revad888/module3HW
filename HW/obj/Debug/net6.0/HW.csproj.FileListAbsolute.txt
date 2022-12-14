@@ -1,0 +1,15 @@
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+D:\SkillFactory\Module3\HW\bin\Debug\net6.0\HW.exe
+D:\SkillFactory\Module3\HW\bin\Debug\net6.0\HW.deps.json
+D:\SkillFactory\Module3\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+D:\SkillFactory\Module3\HW\bin\Debug\net6.0\HW.dll
+D:\SkillFactory\Module3\HW\bin\Debug\net6.0\HW.pdb
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.dll
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\refint\HW.dll
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.pdb
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache
+D:\SkillFactory\Module3\HW\obj\Debug\net6.0\ref\HW.dll
